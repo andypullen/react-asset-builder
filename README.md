@@ -1,2 +1,2 @@
-# react-asset-builder
-Builds and calls the needed list of assets from asset-manifest.json
+# React Asset Builder
+Loops through the generated asset-manifest.json file to call React assets dynamically without the need to change index.html for each build process.
